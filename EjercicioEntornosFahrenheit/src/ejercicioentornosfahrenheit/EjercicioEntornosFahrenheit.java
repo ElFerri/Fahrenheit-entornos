@@ -22,7 +22,7 @@ public class EjercicioEntornosFahrenheit {
         
     }
 
-    public static double centigradesToFarenheit(double degrees) {
+    public static double cenlsiusfahrenheit(double degrees) {
         double result = degrees;
         result = result * 2 - result / 5;
         result = result + 32;
